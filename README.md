@@ -131,8 +131,6 @@ python visualization_blue.py
 - 6 Plotly charts with hover, zoom, pan, and download features
 - File size: ~5-8MB
 
-**Time:** ~2-5 minutes
-
 ### Step 9: View Results
 
 Open the dashboard in your browser:
@@ -152,7 +150,7 @@ xdg-open visualization_report_blue.html
 
 ## 📊 Interactive Dashboard
 
-[View Dashboard](https://github.com/yukiii0818/Ecommerce-data-analysis/raw/master/visualization_report_blue.html)
+[View Interactive Dashboard](https://yukiii0818.github.io/Ecommerce-data-analysis/visualization_report_blue.html)
 
 
 ## 📊 What You'll Find
