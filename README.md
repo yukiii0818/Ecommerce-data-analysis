@@ -152,7 +152,7 @@ xdg-open visualization_report_blue.html
 
 ## 📊 Interactive Dashboard
 
-[View Dashboard](https://htmlpreview.github.io/?https://github.com/yukiii0818/Ecommerce-data-analysis/blob/master/visualization_report_blue.html)
+[View Dashboard](https://github.com/yukiii0818/Ecommerce-data-analysis/raw/master/visualization_report_blue.html)
 
 
 ## 📊 What You'll Find
