@@ -63,7 +63,7 @@ mysql --version
 ### Step 2: Download Data
 
 Download the dataset from Kaggle:
-- **Source**: [Online Retail II Dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii)
+- **Source**: [Online Retail II Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset)
 - **File**: `online_retail_II.xlsx` (50-100MB)
 - **Save to**: Project root directory
 
