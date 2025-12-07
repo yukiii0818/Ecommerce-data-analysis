@@ -373,7 +373,7 @@ pip install pandas numpy pymysql plotly openpyxl --upgrade
 
 ## 🙏 Acknowledgments
 
-- Data source: [Online Retail II (Kaggle)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii)
+- Data source: [Online Retail II (Kaggle)](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset)
 - Tools: MySQL, Python, Plotly, pandas
 - Technologies: SQL, database design, Python data processing
 
